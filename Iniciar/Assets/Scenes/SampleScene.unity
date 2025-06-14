@@ -437,6 +437,7 @@ GameObject:
   m_Component:
   - component: {fileID: 827293812}
   - component: {fileID: 827293811}
+  - component: {fileID: 827293813}
   m_Layer: 0
   m_Name: robot_0
   m_TagString: Untagged
@@ -514,6 +515,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: -2.053, y: -14.834, z: 34.071}
+--- !u!114 &827293813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 827293810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 026a884bdc303c6499d9ea87f62dce5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1210544325
 GameObject:
   m_ObjectHideFlags: 0
